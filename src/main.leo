@@ -1,5 +1,5 @@
 // The 'ankaratokenworkshop' program.
-program beyzbaskin.aleo {
+program beyza_ankara_leo_workshop.aleo {
     
     mapping account:address => u64;
 
